@@ -24,6 +24,8 @@ Setting up **KRNL Executor** is quick and easy:
 3️⃣ Run the installer and follow the on-screen instructions.  
 4️⃣ Launch **KRNL Executor** and enjoy!  
 
+---
+
 > [!IMPORTANT]
 > System Requirements
 > 1. Supported Game Modes: Windowed, Fullscreen, Borderless
