@@ -24,7 +24,11 @@ Setting up **KRNL Executor** is quick and easy:
 3️⃣ Run the installer and follow the on-screen instructions.  
 4️⃣ Launch **KRNL Executor** and enjoy!  
 
-[![Download KRNL Executor](https://img.shields.io/badge/Download-KRNL%20Executor-blueviolet)](../../releases)  
+> [!IMPORTANT]
+> System Requirements
+> 1. Supported Game Modes: Windowed, Fullscreen, Borderless
+> 2. Supported CPUs: AMD & Intel
+> 3. Operating System: Windows 8 or later
 
 ---
 
